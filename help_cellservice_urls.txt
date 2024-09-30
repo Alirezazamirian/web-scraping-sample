@@ -1,4 +1,1 @@
 for each website just write https://{website url}/sitemap.xml
-
-https://rmgsm.ir/product/%d8%a7%d8%b3%d9%be%db%8c%da%a9%d8%b1-jbl-clip5/
-https://rmgsm.ir/post-sitemap1.xml ... to ...  https://rmgsm.ir/post-sitemap33.xml
